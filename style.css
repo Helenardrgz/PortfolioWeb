@@ -1,0 +1,273 @@
+#inicio {
+    margin: 0;
+    background-image: url(assets/OnePage1.png);
+    background-size: 100% 100%;
+    height: 48vw;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+body {
+    margin: 0;
+}
+
+h5 {
+    margin: 0;
+    font-weight: normal;
+}
+
+.header {
+    padding-top: 20px;
+    padding-inline: 10px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 2vw;
+}
+
+.navmenu {
+    display: flex;
+    column-gap: 2.5vw;
+}
+
+.início2 {
+    font-size: 1.5vw;
+    font-family: Canela Regular;
+    color: #fff;
+    font-weight: normal;
+}
+
+.sobre2 {
+    font-size: 1.5vw;
+    font-family: Canela Regular;
+    color: #fff;
+    font-weight: normal;
+}
+
+.projetos2 {
+    font-size: 1.5vw;
+    font-family: Canela Regular;
+    color: #fff;
+    font-weight: normal;
+}
+
+.contato2 {
+    font-size: 1.5vw;
+    font-family: Canela Regular;
+    color: #fff;
+    font-weight: normal;
+}
+
+.principal {
+    margin-left: 7vw;
+}
+
+.helena {
+    font-size: 9.5vw;
+    font-family: Cosmopolitan Regular;
+    font-weight: normal;
+    color: #FCB986;
+    margin-top: 7.5vw;
+}
+
+.designer {
+    font-size: 2.64vw;
+    font-family: Lato-Light;
+    font-weight: normal;
+    color: white;
+    margin-top: 0.7vw;
+}
+
+.E {
+    font-family: Lato-Medium;
+    font-weight: normal;
+    color: #FCB986;
+}
+
+#sobre {
+    background-image: url(assets/OnePage2.png);
+    background-size: 100% 100%;
+    height: 50vw;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.pag2 {
+    text-align: right;
+}
+
+.aboutMe {
+    font-family: Cosmopolitan;
+    font-size: 6.2vw;
+    font-weight: normal;
+    color: white;
+    margin-right: 10vw;
+}
+
+.melhor {
+    font-family: Cosmopolitan;
+    font-weight: normal;
+    color: #FCB986;
+}
+
+.textoSobre {
+    font-family: Century Gothic Regular;
+    font-size: 1.98vw;
+    margin-top: 4vw;
+    color: white;
+    font-weight: normal;
+    margin-right: 10vw;
+}
+
+.designer2 {
+    font-family: CenGothic-Bold;
+    font-weight: normal;
+    color: #FCB986;
+}
+
+.desenvolvedora {
+    font-family: CenGothic-Bold;
+    font-weight: normal;
+    color: #FCB986;
+}
+
+.textoSobre2 {
+    font-family: Century Gothic Regular;
+    font-size: 1.98vw;
+    color: white;
+    font-weight: normal;
+    margin-right: 10vw;
+}
+
+#projetos {
+    background-image: url(assets/OnePage3.png);
+    background-size: 100% 100%;
+    height: 58.5vw;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.projetos3 {
+    font-family: Cosmopolitan Regular;
+    font-size: 11.7vw;
+    margin-left: 6.5vw;
+    color: white;
+    font-weight: normal;
+}
+
+.informacao {
+    display: flex;
+    column-gap: 23.5vw;
+    margin-left: 31.5vw;
+    margin-top: 15vw;
+    font-weight: normal;
+}
+
+.UI {
+    font-family: gala-biline;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 6.1vw;
+}
+
+.portfolio {
+    font-family: gala-biline;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 6.1vw;
+}
+
+.calculadoraTexto {
+    position: relative;
+    font-family: Century Gothic Regular;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    top: 5.5vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+.calculadoraBox {
+    background-image: url(assets/foto2.gif);
+    background-size: cover;
+    position: absolute;
+    height: 130px;
+    width: 25vh;
+    border-radius: 20px;
+    top: 237vh;
+    margin-left: 33vh;
+}
+
+.moedas {
+    border-radius: 20px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 64vh;
+    height: 130px;
+    width: 130px;
+    margin-top: 8.7vh;
+    ;
+}
+
+.moedasFoto {
+    position: absolute;
+    height: 130px;
+}
+
+.moedasTexto {
+    position: relative;
+    font-family: CenGothic-Bold;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    margin-top: 5vh;
+}
+
+#contato {
+    background-image: url(assets/OnePage4.png);
+    background-size: 100% 100%;
+    height: 48.2vw;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.conversar {
+    text-align: center;
+    margin-left: 6.5vw;
+    font-size: 6.6vw;
+    font-family: Cosmopolitan;
+    font-weight: normal;
+    line-height: 5.5vw;
+}
+
+.navFinal {
+    display: flex;
+    column-gap: 9vw;
+    margin-left: 20vw;
+}
+
+.linkedin {
+    margin-top: 9vw;
+    height: 9.5vw;
+    width: 9.5vw;
+}
+
+.behance {
+    margin-top: 9vw;
+    height: 9.5vw;
+    width: 9.5vw;
+}
+
+.email {
+    margin-top: 9vw;
+    height: 9.5vw;
+    width: 9.5vw;
+}
+
+.github {
+    margin-top: 8.2vw;
+    height: 12vw;
+    width: 12vw;
+}
