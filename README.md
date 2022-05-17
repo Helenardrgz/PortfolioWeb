@@ -11,7 +11,7 @@ a fim facilitar a leitura e trazer a delicadeza do design de minha marca pessoal
 
 FOTO DAS FONTES A PARTIR DO GOOGLE FONTES
 
-FOTO DA PÁGINA PRINCIPAL
+<img src="readmeAssets/Página1">
 
 <p>O meu portfólio é uma landing page. Além de ser uma página navegável através do scroll, na página principal, no canto superior direito, está contido o indice 
 que encaminha para a seção desejada da página (Início, Sobre mim, Projetos, Contato). </p>
