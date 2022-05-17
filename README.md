@@ -4,15 +4,22 @@
 Para isso desenvolvi um layout característico para minha marca pessoal, o qual está presente também em meu currículo. </p>
 <p>Com base na minha logo extraí uma paleta de cores para ser usada em todo o portfólio.</p>
 <br>
+<p float="left">
 <img src="/readmeAssets/icone.png"/>
-<br>
-<img src="/readmeAssets/paletaDeCor.png"/>
+<img src="/readmeAssets/paletaDeCor.jpg"/>
+</p>
 <br>
 <p>A estrutura do site e o seu layout foram desenvolvidos com o propósito de transmitir harmonia e suavidade. Escolhi combinar fontes cursivas com fontes sem serifa 
 a fim facilitar a leitura e trazer a delicadeza do design de minha marca pessoal.</p>
-
-FOTO DAS FONTES A PARTIR DO GOOGLE FONTES
-
+<br>
+<p float="left">
+  <img src="/readmeAssets/cosmopolitanRegular.png" width="250" />
+  <img src="/readmeAssets/cosmopolitanScript.png" /> 
+  <img src="/readmeAssets/Lato.png" width="300" />
+</p>
+<br>
+<h1>Vamos para o portfólio!</h1>
+<br>
 <img src="/readmeAssets/Página1.png"/>
 <br>
 <p>O meu portfólio é uma landing page. Além de ser uma página navegável através do scroll, na página principal, no canto superior direito, está contido o indice 
